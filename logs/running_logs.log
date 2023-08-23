@@ -1,1 +1,60 @@
 [2023-08-21 15:42:07,330: INFO: main: Welcome to our custom logging)]
+[2023-08-23 07:31:08,024: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:31:08,026: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:31:08,027: INFO: common: created directory at: artifacts]
+[2023-08-23 07:31:08,027: INFO: common: created directory at: artifacts/model_evaluation]
+[2023-08-23 07:32:43,512: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:32:43,517: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:32:43,522: INFO: common: created directory at: artifacts]
+[2023-08-23 07:32:43,527: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-08-23 07:32:44,959: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C1AE:4B90:648F:8CCD:64E5E048
+Accept-Ranges: bytes
+Date: Wed, 23 Aug 2023 10:32:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-gru-sbgr1930061-GRU
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1692786764.373044,VS0,VE449
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b4e01b9d3fb79d8aec1555d1c17ae96817b6f4a1
+Expires: Wed, 23 Aug 2023 10:37:44 GMT
+Source-Age: 0
+
+]
+[2023-08-23 07:32:51,017: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:32:51,018: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:32:51,018: INFO: common: created directory at: artifacts]
+[2023-08-23 07:32:51,019: INFO: common: created directory at: artifacts/data_validation]
+[2023-08-23 07:32:59,799: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:32:59,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:32:59,801: INFO: common: created directory at: artifacts]
+[2023-08-23 07:32:59,802: INFO: common: created directory at: artifacts/data_transformation]
+[2023-08-23 07:33:12,820: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:33:12,827: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:33:12,829: INFO: common: created directory at: artifacts]
+[2023-08-23 07:33:12,832: INFO: common: created directory at: artifacts/model_trainer]
+[2023-08-23 07:36:51,590: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:36:51,591: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:36:51,591: INFO: common: created directory at: artifacts]
+[2023-08-23 07:36:51,592: INFO: common: created directory at: artifacts/model_trainer]
+[2023-08-23 07:37:35,571: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:37:35,574: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:37:35,575: INFO: common: created directory at: artifacts]
+[2023-08-23 07:37:35,576: INFO: common: created directory at: artifacts/model_trainer]
+[2023-08-23 07:39:10,922: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2023-08-23 07:39:10,925: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-08-23 07:39:10,926: INFO: common: created directory at: artifacts]
+[2023-08-23 07:39:10,926: INFO: common: created directory at: artifacts/model_trainer]
